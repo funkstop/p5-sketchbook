@@ -10,5 +10,9 @@ DisplayRandomShapes
 * https://funkstop.github.io/p5-sketchbook/DisplayRandomShapes/
 * p5js editor: https://editor.p5js.org/ra4165/sketches/A1mEnRDTl
 
+BouncingSpheres
+* https://funkstop.github.io/p5-sketchbook/BouncingSpheres
+* p5js editor: https://editor.p5js.org/ra4165/sketches/Arks5lSVG
+
 
   
