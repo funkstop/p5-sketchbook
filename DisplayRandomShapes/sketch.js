@@ -1,3 +1,18 @@
+let x = 400;
+let y = 400;
+let size = 100; //max size of shapes
+
+function setup() {
+  createCanvas(x, y);
+  background('black');
+}
+
+//choice of colors to use
+function randomColor() {
+  return random(255);
+}
+
+//random selection of predefined shapes
 function randomShape() {
   return random(['circle','triangle', 'square'])
 }
