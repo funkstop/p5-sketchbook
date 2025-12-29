@@ -14,5 +14,9 @@ BouncingSpheres
 * https://funkstop.github.io/p5-sketchbook/BouncingSpheres
 * p5js editor: https://editor.p5js.org/ra4165/sketches/Arks5lSVG
 
+BouncingFaces
+* https://funkstop.github.io/p5-sketchbook/BouncingFaces
+* p5js editor: https://editor.p5js.org/ra4165/sketches/7V_44Fm5u
+
 
   
