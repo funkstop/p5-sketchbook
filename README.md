@@ -18,5 +18,8 @@ BouncingFaces
 * https://funkstop.github.io/p5-sketchbook/BouncingFaces
 * p5js editor: https://editor.p5js.org/ra4165/sketches/7V_44Fm5u
 
+BouncingFaces 2026
+* https://funkstop.github.io/p5-sketchbook/BouncingFaces2026
+* p5js editor: https://editor.p5js.org/ra4165/sketches/lem4HYsQD
 
   
